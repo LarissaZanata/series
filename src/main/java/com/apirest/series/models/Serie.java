@@ -36,12 +36,12 @@ public class Serie implements Serializable{
 		this.id = id;
 	}
 	
-	public int getEpispdios() {
+	public int getEpisodios() {
 		return episodios;
 	}
 
-	public void setEpispdios(int epispdios) {
-		this.episodios = epispdios;
+	public void setEpisodios(int episodios) {
+		this.episodios = episodios;
 	}
 
 	public String getNome() {
